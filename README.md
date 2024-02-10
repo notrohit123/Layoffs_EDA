@@ -22,5 +22,5 @@ objectives:
       *Which industry had the most layoffs?
 
       *Total layoffs year-wise?
-
+      
       *Year wise layoffs according to country?
